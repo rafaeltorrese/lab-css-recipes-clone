@@ -4,6 +4,56 @@ h1, body, html, main {
 }
 /*Import the font and set the default size*/
 html {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans';
   font-size: 18px
+}
+
+.onionimg{
+  background-image: url("../../french-onion-soup-starter-code/images/soup.jpg");
+  color: aliceblue;
+  background-size: 900px 2000px;
+  background-position: center; /* Center the image */
+  font-size: 40px;
+  font-family: 'Roboto';
+  text-align: center;
+  padding: 100px 0;
+  }
+
+li,div{
+  font-size: 15pt;
+  padding-left: 8px;
+  
+}
+
+
+
+hr{
+  width: 50%;
+  align: center;
+  margin-top: 50px;
+}
+
+.infopicture{
+  
+  padding-top: 2cm:
+  align: center; 
+  margin: 10px auto 20px;
+  display: block;
+}
+
+.sizepict1{
+  max-width: 350px;
+}
+
+.sizepict2{
+  max-width: 300px;
+}
+li{
+  list-style-position: inside;
+}
+
+.aligntext{
+  padding: 60px 50px;
+  
+
 }
